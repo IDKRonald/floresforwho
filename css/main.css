@@ -25,6 +25,24 @@ body {
   perspective: 1000px;
 }
 
+/* Deshabilitar el desplazamiento */
+body {
+  overflow: hidden;
+  position: relative;
+  touch-action: none;
+  user-scalable: no;
+  -ms-touch-action: none;
+  -ms-content-zooming: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+html, body {
+  overflow-x: hidden;
+}
+
 #lyrics {
   font-size: 38px;
   font-family: "8bitoperator_Regular";
