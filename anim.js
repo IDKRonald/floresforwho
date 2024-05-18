@@ -15,7 +15,8 @@ var lyricsData = [
   { text: "the promise in our <br> hearts", time: 26.5 },
   { text: `"Don't forget"`, time: 34.5 },
   { text: "I'm with you <br> in the dark", time: 36.3 },
-  { text: "Para ti <3", time: 40 },
+  { text: "Para ti <3", time: 44 },
+    { text: "Para ti <3", time: 50 }
 
 ];
 
