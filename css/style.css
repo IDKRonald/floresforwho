@@ -12,6 +12,7 @@ body{
     justify-content: center;
     background-color: black;
     /* padding-top: -30; */
+    overflow: hidden;
 }
 
 .botones{
