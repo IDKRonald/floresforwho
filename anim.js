@@ -16,7 +16,7 @@ var lyricsData = [
   { text: `"Don't forget"`, time: 34.5 },
   { text: "I'm with you <br> in the dark", time: 36.3 },
   { text: "Para ti <3", time: 44 },
-    { text: "Para ti <3", time: 50 }
+  { text: "", time: 50 }
 
 ];
 
